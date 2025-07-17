@@ -1,0 +1,5 @@
+---
+all:
+  hosts:
+    ubuntu-host:
+      ansible_host: 192.168.68.105
